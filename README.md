@@ -17,34 +17,10 @@
 
 ## 🛠️ Skills  
 
-- **Programming:** Python, SQL  
+- **Programming:** Python, SQL  , 
 - **Data Tools:** Tableau, Excel  
-- **Technologies:** Machine Learning, Data Analysis  
+- **Technologies:** Machine Learning, Data Analysis , Deep Learning , Gen Ai  
 - **Other:** Problem Solving, Business Understanding, Visualization  
-
----
-
-## 📊 Projects  
-
-### 🔹 EcoReturns  
-AI-powered reverse logistics system for sustainable retail  
-- Optimizes product returns and resale decisions  
-- Uses ML and analytics for circular economy impact  
-
-### 🔹 Sales Dashboard (Tableau)  
-- Interactive dashboard for business insights  
-- Focus on KPIs, trends, and decision-making  
-
-### 🔹 Music Recommendation System  
-- Personalized recommendation using data + SQL integration  
-
----
-
-## 📈 Experience  
-
-- 🧠 AI Research Intern  
-  - Worked on deepfake-related research  
-  - Explored real-world AI applications and model behavior  
 
 ---
 
