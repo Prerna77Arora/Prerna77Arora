@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Prerna  
 
-<!--
-**Prerna77Arora/Prerna77Arora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student at Rajiv Gandhi Institute of Petroleum Technology  
+💡 Passionate about Data Analytics, AI/ML, and Problem Solving  
+🚀 Exploring Consulting, Business Analytics, and Tech-driven Solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me  
+
+- I enjoy turning **data into actionable insights**  
+- Currently building projects in **AI, Machine Learning, and Data Visualization**  
+- Interested in **real-world problem solving**, especially in supply chain, sustainability, and analytics  
+- Strong focus on **clean design, usability, and impactful storytelling with data**  
+
+---
+
+## 🛠️ Skills  
+
+- **Programming:** Python, SQL  
+- **Data Tools:** Tableau, Excel  
+- **Technologies:** Machine Learning, Data Analysis  
+- **Other:** Problem Solving, Business Understanding, Visualization  
+
+---
+
+## 📊 Projects  
+
+### 🔹 EcoReturns  
+AI-powered reverse logistics system for sustainable retail  
+- Optimizes product returns and resale decisions  
+- Uses ML and analytics for circular economy impact  
+
+### 🔹 Sales Dashboard (Tableau)  
+- Interactive dashboard for business insights  
+- Focus on KPIs, trends, and decision-making  
+
+### 🔹 Music Recommendation System  
+- Personalized recommendation using data + SQL integration  
+
+---
+
+## 📈 Experience  
+
+- 🧠 AI Research Intern  
+  - Worked on deepfake-related research  
+  - Explored real-world AI applications and model behavior  
+
+---
+
+## 🎯 Goals  
+
+- Build impactful **data-driven solutions**  
+- Grow in **analytics consulting / business analyst roles**  
+- Contribute to **AI + sustainability innovations**  
+
+---
+
+## 📫 Connect With Me  
+
+- LinkedIn: https://www.linkedin.com/in/prerna-arora-cs/  
+- GitHub: https://github.com/Prerna77Arora  
+
+---
+
+⭐ *Always curious to learn, build, and create meaningful impact through technology!*
