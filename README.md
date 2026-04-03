@@ -24,14 +24,6 @@
 
 ---
 
-## 🎯 Goals  
-
-- Build impactful **data-driven solutions**  
-- Grow in **analytics consulting / business analyst roles**  
-- Contribute to **AI + sustainability innovations**  
-
----
-
 ## 📫 Connect With Me  
 
 - LinkedIn: https://www.linkedin.com/in/prerna-arora-cs/  
