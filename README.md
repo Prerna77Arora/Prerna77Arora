@@ -16,12 +16,11 @@
 ---
 
 ## 🛠️ Skills  
-
-- **Programming:** Python, SQL  , 
-- **Data Tools:** Tableau, Excel  
-- **Technologies:** Machine Learning, Data Analysis , Deep Learning , Gen Ai  
-- **Other:** Problem Solving, Business Understanding, Visualization  
-
+- **Programming:** Python, C, SQL, JavaScript, HTML, CSS 
+- **Data Tools & Cloud:** Power BI, Advanced Excel, AWS , kafka
+- **Technologies:** Machine Learning, Deep Learning, Generative AI, Data Analysis, Agentic AI
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, LangChain, LangGraph
+- **Tools & Platforms:** Git, GitHub, Docker, N8N, Jira, Streamlit
 ---
 
 ## 📫 Connect With Me  
