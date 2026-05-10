@@ -53,6 +53,26 @@ Currently exploring AI applications, predictive analytics, recommendation system
 
 ---
 
+# 🏆 Certifications  
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Google%20Professional%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Professional%20Project%20Management-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Foundations%20of%20Business%20Intelligence-FBBC05?style=for-the-badge&logo=google&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/The%20Path%20to%20Insights%20Data%20Models%20and%20Pipelines-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nuts%20and%20Bolts%20of%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+---
+
 # 🌐 Connect With Me  
 
 <p align="left">
@@ -61,7 +81,7 @@ Currently exploring AI applications, predictive analytics, recommendation system
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:prerna7788arora@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -69,7 +89,7 @@ Currently exploring AI applications, predictive analytics, recommendation system
 <img src="https://img.shields.io/badge/Medium-Profile-black?style=for-the-badge&logo=medium"/>
 </a>
 
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/u/Prerna66/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
