@@ -8,7 +8,7 @@
 
 ## 🔍 About Me  
 
-Aspiring AI/ML Engineer and Business Analyst with a strong interest in Data Science, Machine Learning, Generative AI, and FinTech. I enjoy building intelligent and data-driven solutions that solve real-world problems and create meaningful impact.  
+AI/ML Engineer and Business Analyst with a strong interest in Data Science, Machine Learning, Generative AI, and FinTech. I enjoy building intelligent and data-driven solutions that solve real-world problems and create meaningful impact.  
 
 Currently exploring AI applications, predictive analytics, recommendation systems, data visualization, intelligent automation, and AI-powered applications while continuously improving analytical thinking and problem-solving skills.  
 
